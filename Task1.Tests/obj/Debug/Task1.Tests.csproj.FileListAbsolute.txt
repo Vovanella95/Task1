@@ -1,0 +1,8 @@
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\bin\Debug\Task1.Tests.dll
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\bin\Debug\Task1.Tests.pdb
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\obj\Debug\Task1.Tests.csprojResolveAssemblyReference.cache
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\obj\Debug\Task1.Tests.dll
+c:\users\uladzimir_paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\obj\Debug\Task1.Tests.pdb
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\bin\Debug\Task1.Tasks.dll
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2015\Projects\Task1\Task1.Tests\bin\Debug\Task1.Tasks.pdb
